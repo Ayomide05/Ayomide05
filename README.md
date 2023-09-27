@@ -1,12 +1,17 @@
-Hello there; welcome 👋🏾
+# Hi there, I'm Ayomide! 👋
 
-I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, web engineering,and others. I love to build useful open-source projects, speak at some meetups/conferences, ...
+I'm a DevOps enthusiast with a strong passion for cloud technologies and automation. Currently in the waiting room to become a full-fledged DevOps Engineer!
 
-Here's a quick summary about me:
+## About Me
 
-😊 Pronouns: She/her 
-💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022. 
-🌱 I’m currently learning JavaScript, and DevOps. 
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities. 
-💼 Job interests: Software Engineer, Front Engineer,  (Intern or Junior level). 
-📫 You can contact me by emailing gabrieljustina4@gmail.com. 
+- 🌱 I'm constantly learning and exploring new tools and technologies in the DevOps landscape.
+- 💡 I believe in the power of automation to streamline processes and improve efficiency.
+- 🔧 I love working with cloud platforms to deploy, scale, and manage applications.
+
+## Get in Touch
+- 💼 [LinkedIn](www.linkedin.com/in/justina-gabriel-642059207)
+- 📫 You can contact me by emailing gabrieljustina4@gmail.com. 
+  
+
+Let's connect and talk all things DevOps and cloud! Feel free to explore my repositories to see what I'm working on.
+
