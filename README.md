@@ -1,6 +1,6 @@
 # Hi there, I'm Ayomide! 👋
 
-I'm a DevOps enthusiast with a strong passion for cloud technologies and automation. Currently in the waiting room to become a full-fledged DevOps Engineer!
+I'm a Cloud enthusiast with a strong passion for cloud technologies and automation. Currently in the waiting room to become a full-fledged Cloud Engineer!
 
 ## About Me
 
